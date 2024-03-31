@@ -1,0 +1,18 @@
+CashCraft:-
+
+=>Install angular in laptop using cmd:-"npm install -g @angular/cli@latest".
+
+=>using <router-outlet></router-outlet> in app.component.html to route the all components
+
+=>creating a module in app folder 
+=>cmd is " ng g m budget-planner --routing"
+
+=>inside the foldeer of budget-planneer creating a components 
+=>the cmd is " ng g c login"
+
+=>cmd to install angular material "npm install --save @angular/material"
+=>import {MatIconModule} from '@angular/material/icon';
+=>ng g c dashboard
+=>ng g c income
+=>ng g c todo
+=>ng g c history
